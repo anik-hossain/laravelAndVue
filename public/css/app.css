@@ -28299,3 +28299,12 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
 }
 
+.router-link-exact-active {
+  background-color: #007bff;
+  color: #fff !important;
+}
+
+.sidebar-dark-primary .nav-sidebar > .nav-item:hover > .nav-link {
+  background-color: #007bff;
+}
+
