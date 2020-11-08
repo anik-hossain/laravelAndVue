@@ -6,7 +6,7 @@ Vue.use(VueRouter);
 
 // Vue Form
 import {Form, HasError, AlertError} from 'vform'
-window.form = Form;
+window.Form = Form;
 Vue.component(HasError.name, HasError)
 Vue.component(AlertError.name, AlertError)
 
