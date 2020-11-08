@@ -30,6 +30,7 @@ const router = new VueRouter({
     routes,
     mode: 'history'
 })
+
 // Vue.component('exmaple-component', require('./components/ExampleComponents.vue'));
 
 const app = new Vue({
