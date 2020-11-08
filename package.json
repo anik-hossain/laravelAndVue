@@ -26,7 +26,10 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.15.1",
         "admin-lte": "^3.0.0-alpha.2",
+<<<<<<< HEAD
         "vform": "^1.0.1",
+=======
+>>>>>>> 60adf38a0171549a240b394cb6bde936696ce49c
         "vue-router": "^3.4.9"
     }
 }

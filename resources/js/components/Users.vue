@@ -66,6 +66,7 @@
               <span aria-hidden="true">&times;</span>
             </button>
           </div>
+<<<<<<< HEAD
           <form @submit.prevent="createUser">
             <div class="modal-body">
               <div class="form-group">
@@ -127,10 +128,18 @@
               <button type="submit" class="btn btn-primary">Create</button>
             </div>
           </form>
+=======
+          <div class="modal-body">...</div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary">Create</button>
+          </div>
+>>>>>>> 60adf38a0171549a240b394cb6bde936696ce49c
         </div>
       </div>
     </div>
   </div>
+<<<<<<< HEAD
 </template>
 
 <script>
@@ -155,3 +164,6 @@ export default {
   }
 };
 </script>
+=======
+</template>
+>>>>>>> 60adf38a0171549a240b394cb6bde936696ce49c
